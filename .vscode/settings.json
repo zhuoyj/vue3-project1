@@ -1,0 +1,16 @@
+{
+  "vue3snippets.enable-compile-vue-file-on-did-save-code": true,
+  "i18n-ally.localesPaths": [
+    "src/lang"
+  ],
+  "editor.codeActionsOnSave": {
+
+
+  },
+  "editor.formatOnSave": true, // 保存格式化文件
+  "editor.defaultFormatter": "esbenp.prettier-vscode" // 指定 prettier 为所有文件默认格式化器
+  "eslint.codeActionsOnSave.rules": null,
+  "notebook.codeActionsOnSave": {
+
+  }
+}
